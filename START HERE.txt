@@ -1,0 +1,35 @@
+PIRATE SHOP MACRO - START HERE
+==============================
+
+1. Install Python (one time)
+   Download from https://www.python.org/downloads/
+   IMPORTANT: tick "Add Python to PATH" on the first screen of the installer.
+   (3.12 or 3.13 is best.)
+
+2. Double-click  "Build EXE.bat"
+   Wait a few minutes until it says SUCCESS.
+   This makes "Pirate Shop Macro.exe" in the same folder.
+
+3. Double-click  "Pirate Shop Macro.exe"
+   Click Yes on the administrator prompt. The app opens on the SETUP page.
+
+4. On the Setup page, press "Capture" next to each step.
+   - Get that button on your screen in Fortnite
+   - Press F9
+   - Drag a box around the button
+   When every step has a green check, you're done.
+
+5. Go to the Dashboard and press START.
+   You get a few seconds to click into Fortnite.
+
+To stop: press F8 (works inside the game) or move your mouse to the top-left corner.
+
+
+BUILD FAILED, OR THE EXE WON'T OPEN?
+------------------------------------
+Use the backup method instead:
+  a) Double-click "Install Requirements.bat" (one time)
+  b) Double-click "pirate_shop_macro.pyw"
+It's the exact same app.
+
+Still stuck? Read README.md, especially the Troubleshooting section.
