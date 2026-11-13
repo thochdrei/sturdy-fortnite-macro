@@ -10,7 +10,7 @@ about two minutes, and shows live stats, ranks, and badges.
 > the human-like mouse movement does **not** guarantee it won't. **Use at your own
 > risk**, ideally not on an account you care about. The app only reads your screen and
 > sends clicks and key presses. It does not touch game files or memory.
-
+![Dashboard](docs/dashboard.png)
 ---
 
 ## Quick start
